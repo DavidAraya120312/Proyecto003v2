@@ -41,7 +41,7 @@ async function grafico(indicador) {
 
       
     } catch {
-    //   console.log("Error");
+       console.log("Error");
     }
   }
 
